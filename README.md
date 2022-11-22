@@ -3,7 +3,8 @@ Hi, I'm Douglas Ochner, BSc Information System & Software Developer from Brazil,
 
 
 <h2>🌐 Socials:</h2>
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/douglasochner) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/douglasochner) 
 
 <h1>💻 Tech Stack:</h1>
 
@@ -21,6 +22,6 @@ Hi, I'm Douglas Ochner, BSc Information System & Software Developer from Brazil,
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=dochner&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dochner&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
