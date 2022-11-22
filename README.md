@@ -21,6 +21,6 @@ Hi, I'm Douglas Ochner, BSc Information System & Software Developer from Brazil,
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=dochner&icon=0&color=1)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=dochner&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
