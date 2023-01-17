@@ -1,5 +1,5 @@
 <h1>💫 About Me:</h1>
-Hi, I'm Douglas Ochner, BSc Information System & Software Developer from Brazil, actually living in Portugal<br><br>🎓 I graduated from Catholic University Center of Santa Catarina in Bsc Information System<br>💻 I love writing code and learn anythings about it<br>🔬 I’m currently working on Vue.js, Angular<br>📚 I’m currently learning how to build Websites with Vue.js and Angular<br>💬 Ask me about Here<br>📫 How to reach me: douglasochner@gmail.com
+Hi, I'm Douglas Ochner, BSc Information System & Software Developer from Brazil, actually living in Portugal<br><br>🎓 I graduated from Catholic University Center of Santa Catarina in Bsc Information System<br>💻 I love writing code and learn anythings about it<br>🔬 My currently main frameworks are Vue.js and Angular<br>📚 I’m currently learning how to build Websites with Vue.js and Angular<br>💬 Ask me about Here<br>📫 How to reach me: douglasochner@gmail.com
 
 
 <h2>🌐 Socials:</h2>
