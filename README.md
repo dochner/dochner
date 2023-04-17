@@ -1,27 +1,67 @@
-<h1>💫 About Me:</h1>
-Hi, I'm Douglas Ochner, BSc Information System & Software Developer from Brazil, actually living in Portugal<br><br>🎓 I graduated from Catholic University Center of Santa Catarina in Bsc Information System<br>💻 I love writing code and learn anythings about it<br>🔬 My currently main frameworks are Vue.js and Angular<br>📚 I’m currently learning how to build Websites with Vue.js and Angular<br>💬 Ask me about Here<br>📫 How to reach me: douglasochner@gmail.com
+<h1 align="center">Hi 👋, I'm Douglas Ochner</h1>
+<h4 align="center">I'm a Frontend Engineer with a keen focus on the Vue.js framework, I am thrilled to share my work with you here on GitHub. With a passion for clean, efficient code and a deep understanding of modern web development best practices, I am dedicated to building beautiful, responsive user interfaces that are a joy to interact with. Interested in learning more about my work or collaborating on a project together?</h4>
 
+<p align="left">
+Feel free to get in touch with me <br>via email at <a href="mailto:douglas.ochner@gmail.com">douglas.ochner@gmail.com</a> <br>or connect with me on <a href="https://www.linkedin.com/in/douglasochner/">Linkedin</a></p>
 
-<h2>🌐 Socials:</h2>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/douglasochner) 
-
-<h1>💻 Tech Stack:</h1>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=plastic&logo=vuetify&logoColor=AEDDFF) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=plastic&logo=nuxt.js&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=plastic&logo=pug&logoColor=A86454) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=plastic&logo=quasar&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-
-<h2>📊 GitHub Stats:</h2>
-
-![](https://github-readme-stats.vercel.app/api?username=dochner&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dochner&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dochner&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<h3>✍️ Random Dev Quote</h3>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">I would love to hear from you and explore how we can build something amazing together!</h3>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=dochner&icon=0&color=1)](https://visitcount.itsvg.in)
+- 🔭 I’m currently working on [cd-commerce](https://github.com/dochner/cd-commerce)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🌱 I’m currently learning **Vue.js, Clean Architecture.**
+
+- 👨‍💻 All of my projects are available at [https://ochner.com.br/projects](https://ochner.com.br/projects)
+
+- 📝 I regularly write articles on [https://ochner.com.br/blog](https://ochner.com.br/blog)
+
+- 💬 Ask me about **vue, atomic design, or BEM methodology**
+
+- 📫 How to reach me **douglas.ochner@gmail.com**
+
+- 📄 Know about my experiences [https://ochner.com.br/#experiences](https://ochner.com.br/#experiences)
+
+---
+
+### Connect With Me 🤝🤝
+
+<p align="left">
+<a href="https://linkedin.com/in/douglasochner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglasochner" height="30" width="40" /></a>
+</p>
+
+### Programming Language
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+
+### Frontend Development
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+<a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a>
+<a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+
+### Frameworks
+
+<a href="https://quasar.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/></a>
+<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>
+
+### Testing
+
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
+
+### Stats 📊
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dochner&show_icons=true" alt="dochner_stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dochner&layout=compact" alt="dochner_stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dochner&" alt="dochner_stats"/>
+</p>
+
+---
+
+<p align="right"><img src="https://visitcount.itsvg.in/api?id=dochner&icon=0&color=8" alt="Douglas Ochner Profile visits" /></p>
