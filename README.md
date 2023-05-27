@@ -8,19 +8,9 @@ Feel free to get in touch with me <br>via email at <a href="mailto:douglas.ochne
 
 ---
 
-- 🔭 I’m currently working on [cd-commerce](https://github.com/dochner/cd-commerce)
-
-- 🌱 I’m currently learning **Vue.js, Clean Architecture.**
-
-- 👨‍💻 All of my projects are available at [https://ochner.com.br/projects](https://ochner.com.br/projects)
-
-- 📝 I regularly write articles on [https://ochner.com.br/blog](https://ochner.com.br/blog)
-
 - 💬 Ask me about **vue, atomic design, or BEM methodology**
 
 - 📫 How to reach me **douglas.ochner@gmail.com**
-
-- 📄 Know about my experiences [https://ochner.com.br/#experiences](https://ochner.com.br/#experiences)
 
 ---
 
